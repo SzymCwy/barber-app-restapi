@@ -13,6 +13,7 @@ has rights to modify them.
 ## Setup
 
 Install Django on your computer
+
 Install Django rest framework with pip
 ```bash 
 pip Install djangorestframework

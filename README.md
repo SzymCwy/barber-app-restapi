@@ -13,6 +13,10 @@ has rights to modify them.
 ## Setup
 
 Install Django on your computer
+Install Django rest framework with pip
+```bash 
+pip Install djangorestframework
+```
 
 Run migrations to create database migrations, firstly for app because of modified User.
 
